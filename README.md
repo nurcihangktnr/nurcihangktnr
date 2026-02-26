@@ -1,64 +1,56 @@
 # 👋 Selamlar, Ben Nurcihan Göktanır!
 
-### 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi | İzmir Ekonomi Üniversitesi
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nurcihangoktanir&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="nurcihangoktanir" />
+</p>
 
-Elektrik-Elektronik Mühendisliği alanındaki teorik bilgilerimi pratikle birleştirmeyi hedefleyen, disiplinli ve öğrenmeye açık bir mühendis adayıyım. Sinyal işleme, devre tasarımı ve teknik çizim konularında kendimi geliştiriyorum.
+### 🎓 Elektrik-Elektronik Mühendisi Adayı
 
----
-
-### 🛠️ Teknik Yetkinlikler
-
-| Alan | Yetkinlikler | Seviye |
-| :--- | :--- | :--- |
-| **Tasarım & Çizim** | AutoCAD | Başlangıç |
-| **Analiz & Simülasyon** | OrCAD | Orta |
-| **Ofis Araçları** | Microsoft Office | Orta - İyi |
-| **Diller** | İngilizce / Almanca | C2 / A2 |
+[cite_start]İzmir Ekonomi Üniversitesi'nde 3. sınıf öğrencisiyim[cite: 29, 30]. [cite_start]Teorik mühendislik bilgilerimi AutoCAD ve OrCAD gibi araçlarla birleştirerek projeler üretiyorum[cite: 4, 40, 51]. [cite_start]Takım çalışmasına yatkın, hızlı öğrenen ve disiplinli bir çalışma disiplinine sahibim[cite: 5, 37, 38].
 
 ---
 
-### 💼 İş ve Staj Deneyimi
+### 🛠️ Teknolojiler ve Yetkinlikler
 
-* **Onmuş Elektrik A.Ş.** | Elektrik Proje Çizim Stajı (2025 Yaz)
-    * AutoCAD ile elektrik aydınlatma planları ve sigorta projelerinin hazırlanması.
-    * Teknik çizim çalışmaları ve uygulama projeleri.
+- [cite_start]**Tasarım & Çizim:** - <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=flat&logo=autodesk&logoColor=white" /> (Başlangıç) [cite: 40]
+  - [cite_start]<img src="https://img.shields.io/badge/OrCAD-003566?style=flat&logo=cadence&logoColor=white" /> (Orta Seviye) [cite: 51]
 
-* **EMKA Doğalgaz Mühendislik A.Ş.** | Doğalgaz Proje Çizimi (2022 Yaz)
-    * Tesisat projelerinin AutoCAD ile çizimi ve 3D modelleme.
-    * Kurumsal iş ortamı ve süreç yönetimi deneyimi.
+- **Ofis & Verimlilik:**
+  - [cite_start]<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> (İyi Seviye) [cite: 42]
 
----
-
-### 👥 Kulüp ve Topluluklar
-
-* **İEÜ Endüstri Sistemleri Topluluğu** | Komite Görevlisi (2022 - 2024)
-    * Seminer Takımı bünyesinde İK görüşmeleri ve organizasyon yönetimi.
-    * Teknik Gezi Takımı ile fabrika ziyaretleri koordinasyonu ve saha tanıma.
-    * İletişim ve ikna becerileri üzerine pratik deneyim.
+- **Diller:**
+  - [cite_start]<img src="https://img.shields.io/badge/İngilizce-C2-blue?style=flat" /> [cite: 52]
+  - [cite_start]<img src="https://img.shields.io/badge/Almanca-A2-lightgrey?style=flat" /> [cite: 53]
 
 ---
 
-### 📜 Sertifikalar
+### 💼 Deneyimler
 
-* **Model United Nations Delegate Participation**
-    * New York Lebanese University (2017)
-
----
-
-### ⚡ Temel Yetenekler
-
-* **Yumuşak Beceriler:** Takım Çalışması, İletişim, İkna Becerisi.
-* **Çalışma Prensibi:** Hızlı Öğrenme, Sorumluluk Alma, Disiplinli Yaklaşım.
+- ⚡ **Onmuş Elektrik A.Ş.** | [cite_start]Elektrik Proje Çizim Stajı (2025) [cite: 17, 18]
+- 🔥 **EMKA Doğalgaz Mühendislik** | [cite_start]Doğalgaz Proje Çizimi (2022) [cite: 12, 13]
+- 🏛️ **Model United Nations** | [cite_start]Delegate Participation (2017) [cite: 32, 33]
 
 ---
 
-### 📫 Benimle İletişime Geçin
+### 📊 İstatistiklerim
 
-* **LinkedIn:** [linkedin.com/in/nurcihangoktanir](https://www.linkedin.com/in/nurcihangoktanir)
-* **E-posta:** [nurcihangktnr@gmail.com](mailto:nurcihangktnr@gmail.com)
-* **Konum:** İzmir, Türkiye
+<p align="left">
+<a href="https://github.com/nurcihangoktanir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+</a>
+</p>
 
 ---
+
+### 📫 Bana Ulaşın
+
+- [cite_start]**LinkedIn:** [linkedin.com/in/nurcihangoktanir](https://www.linkedin.com/in/nurcihangoktanir) [cite: 14]
+- [cite_start]**E-posta:** [nurcihangktnr@gmail.com](mailto:nurcihangktnr@gmail.com) [cite: 10]
+- [cite_start]**Konum:** İzmir, Türkiye [cite: 14]
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Nurcihan's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
