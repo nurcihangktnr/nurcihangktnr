@@ -1,43 +1,54 @@
-# 🚀 Merhaba, Ben Nurcihan Göktanır!
+# 👋 Selamlar, Ben Nurcihan Göktanır!
 
-### 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi
+### 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi | İzmir Ekonomi Üniversitesi
 
-İzmir Ekonomi Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Temel elektronik, devre tasarımı ve sinyal işleme konularında teorik altyapıya sahip, pratik uygulamalara ve sürekli gelişime odaklı bir mühendis adayıyım.
+Elektrik-Elektronik Mühendisliği alanındaki teorik bilgilerimi pratikle birleştirmeyi hedefleyen, disiplinli ve öğrenmeye açık bir mühendis adayıyım. Sinyal işleme, devre tasarımı ve teknik çizim konularında kendimi geliştiriyorum.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler
 
-* **Tasarım & Çizim:** AutoCAD (Başlangıç), OrCAD (Orta Seviye)
-* **Ofis Araçları:** Microsoft Office (Orta - İyi Seviye)
-* **Diller:** * 🇬🇧 İngilizce (C2 - İleri Seviye)
-    * 🇩🇪 Almanca (A2 - Temel Seviye)
+| Alan | Yetkinlikler | Seviye |
+| :--- | :--- | :--- |
+| **Tasarım & Çizim** | AutoCAD | Başlangıç |
+| **Analiz & Simülasyon** | OrCAD | Orta |
+| **Ofis Araçları** | Microsoft Office | Orta - İyi |
+| **Diller** | İngilizce / Almanca | C2 / A2 |
 
 ---
 
-### 💼 Deneyim & Stajlar
+### 💼 İş ve Staj Deneyimi
 
-* **Onmuş Elektrik A.Ş.** | Elektrik Proje Çizim Stajı (2025 Yaz Dönemi)
+* **Onmuş Elektrik A.Ş.** | Elektrik Proje Çizim Stajı (2025 Yaz)
     * AutoCAD ile elektrik aydınlatma planları ve sigorta projelerinin hazırlanması.
-    * Elektrik uygulama projeleri üzerinden teknik çizim çalışmaları.
-* **EMKA Doğalgaz Mühendislik A.Ş.** | Doğalgaz Proje Çizimi (2022 Yaz Dönemi)
-    * AutoCAD kullanarak doğalgaz tesisat projelerinin çizimi ve 3D modelleme.
-    * Kurumsal çalışma ortamı deneyimi.
+    * Teknik çizim çalışmaları ve uygulama projeleri.
+
+* **EMKA Doğalgaz Mühendislik A.Ş.** | Doğalgaz Proje Çizimi (2022 Yaz)
+    * Tesisat projelerinin AutoCAD ile çizimi ve 3D modelleme.
+    * Kurumsal iş ortamı ve süreç yönetimi deneyimi.
 
 ---
 
-### 🏅 Sertifikalar ve Kulüp Faaliyetleri
+### 👥 Kulüp ve Topluluklar
 
-* **Model United Nations Delegate Participation** - New York Lebanese University (2017)
-* **İEÜ Endüstri Sistemleri Topluluğu** - Komite Görevlisi (2022-2024)
-    * Seminer ve Teknik Gezi takımlarında organizasyon ve iletişim süreçlerinin yönetimi.
+* **İEÜ Endüstri Sistemleri Topluluğu** | Komite Görevlisi (2022 - 2024)
+    * Seminer Takımı bünyesinde İK görüşmeleri ve organizasyon yönetimi.
+    * Teknik Gezi Takımı ile fabrika ziyaretleri koordinasyonu ve saha tanıma.
+    * İletişim ve ikna becerileri üzerine pratik deneyim.
 
 ---
 
-### ✨ Yetenekler & İlgi Alanları
+### 📜 Sertifikalar
 
-* **Yumuşak Beceriler:** Takım Çalışması, İletişim, İkna Kabiliyeti, Hızlı Öğrenme, Sorumluluk Alma.
-* **İlgi Alanları:** Gelişen teknolojileri takip etmek, sektörel projeler, teknik organizasyonlar.
+* **Model United Nations Delegate Participation**
+    * New York Lebanese University (2017)
+
+---
+
+### ⚡ Temel Yetenekler
+
+* **Yumuşak Beceriler:** Takım Çalışması, İletişim, İkna Becerisi.
+* **Çalışma Prensibi:** Hızlı Öğrenme, Sorumluluk Alma, Disiplinli Yaklaşım.
 
 ---
 
@@ -45,8 +56,9 @@
 
 * **LinkedIn:** [linkedin.com/in/nurcihangoktanir](https://www.linkedin.com/in/nurcihangoktanir)
 * **E-posta:** [nurcihangktnr@gmail.com](mailto:nurcihangktnr@gmail.com)
+* **Konum:** İzmir, Türkiye
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NURCIHAN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Nurcihan's GitHub Stats" />
 </p>
