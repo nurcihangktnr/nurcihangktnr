@@ -25,9 +25,9 @@
 
 ### 💼 Deneyimler
 
-- ⚡ **Onmuş Elektrik A.Ş.** | [cite_start]Elektrik Proje Çizim Stajı (2025) [cite: 17, 18]
-- 🔥 **EMKA Doğalgaz Mühendislik** | [cite_start]Doğalgaz Proje Çizimi (2022) [cite: 12, 13]
-- 🏛️ **Model United Nations** | [cite_start]Delegate Participation (2017) [cite: 32, 33]
+- ⚡ **Onmuş Elektrik A.Ş.** | Elektrik Proje Çizim Stajı (2025) 
+- 🔥 **EMKA Doğalgaz Mühendislik** | Doğalgaz Proje Çizimi (2022)
+- 🏛️ **Model United Nations** | Delegate Participation (2017) 
 
 ---
 
