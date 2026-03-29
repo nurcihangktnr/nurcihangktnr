@@ -6,21 +6,21 @@
 
 ### 🎓 Elektrik-Elektronik Mühendisi Adayı
 
-[cite_start]İzmir Ekonomi Üniversitesi'nde 3. sınıf öğrencisiyim[cite: 29, 30]. [cite_start]Teorik mühendislik bilgilerimi AutoCAD ve OrCAD gibi araçlarla birleştirerek projeler üretiyorum[cite: 4, 40, 51]. [cite_start]Takım çalışmasına yatkın, hızlı öğrenen ve disiplinli bir çalışma disiplinine sahibim[cite: 5, 37, 38].
+İzmir Ekonomi Üniversitesi'nde 3. sınıf öğrencisiyim[cite: 29, 30]. [cite_start]Teorik mühendislik bilgilerimi AutoCAD ve OrCAD gibi araçlarla birleştirerek projeler üretiyorum[cite: 4, 40, 51]. [cite_start]Takım çalışmasına yatkın, hızlı öğrenen ve disiplinli bir çalışma disiplinine sahibim[cite: 5, 37, 38].
 
 ---
 
 ### 🛠️ Teknolojiler ve Yetkinlikler
 
-- [cite_start]**Tasarım & Çizim:** - <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=flat&logo=autodesk&logoColor=white" /> (Başlangıç) [cite: 40]
-  - [cite_start]<img src="https://img.shields.io/badge/OrCAD-003566?style=flat&logo=cadence&logoColor=white" /> (Orta Seviye) [cite: 51]
+- **Tasarım & Çizim:** - <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=flat&logo=autodesk&logoColor=white" /> (Başlangıç) [cite: 40]
+  - <img src="https://img.shields.io/badge/OrCAD-003566?style=flat&logo=cadence&logoColor=white" /> (Orta Seviye) [cite: 51]
 
 - **Ofis & Verimlilik:**
-  - [cite_start]<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> (İyi Seviye) [cite: 42]
+  - <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> (İyi Seviye) [cite: 42]
 
 - **Diller:**
-  - [cite_start]<img src="https://img.shields.io/badge/İngilizce-C2-blue?style=flat" /> [cite: 52]
-  - [cite_start]<img src="https://img.shields.io/badge/Almanca-A2-lightgrey?style=flat" /> [cite: 53]
+  - <img src="https://img.shields.io/badge/İngilizce-C2-blue?style=flat" /> [cite: 52]
+  - <img src="https://img.shields.io/badge/Almanca-A2-lightgrey?style=flat" /> [cite: 53]
 
 ---
 
