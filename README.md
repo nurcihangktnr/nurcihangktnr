@@ -45,9 +45,9 @@
 
 ### 📫 Bana Ulaşın
 
-- [cite_start]**LinkedIn:** [linkedin.com/in/nurcihangoktanir](https://www.linkedin.com/in/nurcihangoktanir) [cite: 14]
-- [cite_start]**E-posta:** [nurcihangktnr@gmail.com](mailto:nurcihangktnr@gmail.com) [cite: 10]
-- [cite_start]**Konum:** İzmir, Türkiye [cite: 14]
+- **LinkedIn:** [linkedin.com/in/nurcihangoktanir](https://www.linkedin.com/in/nurcihangoktanir) 
+- **E-posta:** [nurcihangktnr@gmail.com](mailto:nurcihangktnr@gmail.com) 
+- **Konum:** İzmir, Türkiye 
 
 ---
 
